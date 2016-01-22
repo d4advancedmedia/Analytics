@@ -22,7 +22,7 @@ function footer_analytics() {
 ?><script>
 
 <?php # if ( is_user_logged_in() ) : ?>
-	// Acct: <?php echo $analytics_account; ?>
+	/* Acct: <?php echo $analytics_account; ?> */
 <?php # endif; ?>
 
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
