@@ -5,7 +5,7 @@
 	Plugin URI: https://github.com/d4advancedmedia/Analytics
 	GitHub Theme URI: https://github.com/d4advancedmedia/Analytics
 	GitHub Branch: master
-	Description: Simple WordPress plugin to paste in Analytics code 
+	Description: Simple WordPress plugin to paste in Analytics code and hook it into the footer
 	Version: 21Jan16
 	Author: D4 Adv. Media
 	License: GPL2
